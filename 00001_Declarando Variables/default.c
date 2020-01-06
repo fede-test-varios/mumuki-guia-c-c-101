@@ -1,1 +1,0 @@
-<tipo> <nombre_variable>;
