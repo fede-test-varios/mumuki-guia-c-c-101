@@ -3,7 +3,9 @@ name: C-101
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: c
 id_format: "%05d"
-order: []
+order:
+- 1
 private: false

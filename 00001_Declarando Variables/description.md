@@ -1,0 +1,1 @@
+Declará el entero `x` igual a `1`
