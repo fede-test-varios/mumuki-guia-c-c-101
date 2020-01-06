@@ -1,3 +1,1 @@
-Hola, declará la función `sumar`, 
-
-> Esta funcióñ toma 2 números y te retorna el resultado de la suma entre ambos.
+Usando la funcion `sumar` que recibe 2 números enteros y los suma hacé la funcion multiplicar; 
