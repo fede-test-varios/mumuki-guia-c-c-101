@@ -1,0 +1,1 @@
+Muy Bien :clap: aprendiste a declarar una variable. Viste que lindo es poder hacer eso :sunglasses:
