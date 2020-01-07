@@ -1,4 +1,4 @@
-#define typenasme(x) _Generic((x),                          
-          int: "int",
-        float: "float",        
+#define typenasme(x) _Generic((x),
+          int: "int";
+        float: "float";        
       default: "other");
