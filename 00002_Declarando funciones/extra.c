@@ -1,3 +1,3 @@
-int sumar(int n1, int n2) {
-  return n1 + n2;
+<Tipo de retorno> nombreDeLaFuncion(<parametros>){
+  cuerpoDeLaFuncion
 }

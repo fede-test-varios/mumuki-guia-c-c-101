@@ -1,1 +1,8 @@
-Usando la funcion `sumar` que recibe 2 números enteros y los suma hacé la funcion multiplicar; 
+Las funciones estan compuestas por:
+- Tipo de retorno
+- Nombre de la funcion
+- Parametros
+- Cuerpo de la funcion
+
+
+Definir la funcion sumar, que dado dos numero enteros. Retorna la suma de ellos.
