@@ -6,7 +6,7 @@ describe ("Chequeo de tipos") {
     should_float(saldoBanco) be equal to(19546.50);
   } end
   it ("inicial de nombre") {
-    should_char(inicial) be equal to('F');
+    should_char(inicialDelNombre) be equal to('F');
   } end
   it ("longitud de Buenos Aires") {
     should_double(buenosAiresLongitud) be equal to(-58.3772300);
