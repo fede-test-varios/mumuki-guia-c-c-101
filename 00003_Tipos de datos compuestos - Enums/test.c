@@ -6,7 +6,7 @@ describe ("Meses") {
     should_int(FEBRERO) be equal to(1);
   } end
   it ("Marzo debe ser 2") {
-    should_int(ENERO) be equal to(2);
+    should_int(MARZO) be equal to(2);
   } end
   it ("Abril debe ser 3") {
     should_int(ABRIL) be equal to(3);
