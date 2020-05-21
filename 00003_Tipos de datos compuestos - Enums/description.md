@@ -21,4 +21,5 @@ En este ejemplo, `PERRO` tiene el valor 0, `GATO` el valor 1, ...
 
 Esto sirve mucho para que el codigo quede mas declarativo.
 
-Hacer un enums que contenga todos meses.
+Hacer un enums que contenga todos meses y otro que tenga los dias. Este ultimo que arranque con el valor 1, dejando a martes con el valor 2, miercoles con el 3, ...
+

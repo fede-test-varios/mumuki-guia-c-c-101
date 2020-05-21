@@ -15,3 +15,14 @@ describe ("Meses") {
     should_int(DICIEMBRE) be equal to(11);
   } end
 } end
+describe ("Dias") {
+  it ("Lunes") {
+    should_int(LUNES) be equal to(1);
+    } end
+  it ("Viernes") {
+    should_int(VIERNES) be equal to(5);
+    } end
+  it ("Domingo") {
+    should_int(DOMINGO) be equal to(7);
+    } end
+} end
