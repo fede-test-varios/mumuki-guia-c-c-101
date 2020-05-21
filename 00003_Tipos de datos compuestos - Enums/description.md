@@ -13,8 +13,7 @@ AL momento de definirlo se hace de la siguiente manera:
 Por ejemplo, queremos definir los meses del año y los dias de semana.
 
 ```c
-  enum mascotas{
-    PERRO,GATO,COBALLO,CONEJO};
+  enum mascotas{PERRO,GATO,COBALLO,CONEJO};
 ```
 
 En este ejemplo, `PERRO` tiene el valor 0, `GATO` el valor 1, ...
