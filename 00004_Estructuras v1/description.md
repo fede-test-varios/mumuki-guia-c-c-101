@@ -5,8 +5,7 @@ Podemos crear una `struct` de la siguiente manera:
 typedef struct {
     char* nombre;
     char* apellido;
-    int edad;
-    char* fechaDeNacimiento;
+    char* fechaDeNacimiento;//DD/MM/AAAA
 } t_persona;
 ```
 
@@ -18,4 +17,5 @@ t_persona felipe;
 Para asignarle valores utilizamos el operador `.` de la siguiente manera.
 `nombreDeVariable.campoDeEstructura = valor`.
 
-Crear una variable `persona`, que sea un 
+Crear una variable `persona`, que sea de tipo t_persona con nombre y apellido Facundo Gonzalez.
+Nacido el 10 de Enero de 1996.
