@@ -3,7 +3,7 @@ typedef struct {
     char* modelo;
     char* patente;
     int anioDeCompra;
-} t_auto;
+} t_vehiculo;
 
 typedef struct {
     char* nombre;
