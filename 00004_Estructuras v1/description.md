@@ -1,5 +1,5 @@
 Las estructuras nos permiten crear modelos en c.
-Podemos crear una `struct` de la siguiente manera:
+Podemos crear una estructura de la siguiente manera:
 
 ```c
 typedef struct {
