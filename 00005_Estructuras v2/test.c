@@ -3,7 +3,7 @@ describe ("*Auto") {
         should_string(corsa->marca) be equal to("Chevrolet");
     } end
     it ("Modelo del auto") {
-        should_string(corsa->modelo) be equal to("Crosa Classic");
+        should_string(corsa->modelo) be equal to("Corsa Classic");
     } end
     it ("Año del auto") {
         should_int(corsa->anio) be equal to(2006);

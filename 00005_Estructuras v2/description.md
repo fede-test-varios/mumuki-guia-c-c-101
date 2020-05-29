@@ -17,4 +17,4 @@ typedef struct {
 } t_vehiculo;
 ```
 
-Crear una variable `corsa`, que sea un puntero a t_vehiculo. Obviamente su marca tiene que ser Chevrolet, modelo Crosa Classic, con patente NBV678, del 2006. 
+Crear una variable `corsa`, que sea un puntero a t_vehiculo. Obviamente su marca tiene que ser Chevrolet, modelo Corsa Classic, con patente NBV678, del 2006. 
