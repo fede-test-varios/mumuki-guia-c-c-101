@@ -16,6 +16,6 @@ Primero hay que crear un variable de tipo de estructura.
 t_persona felipe;
 ```
 Para asignarle valores utilizamos el operador `.` de la siguiente manera.
-`punteroALaEstructura.campoDeEstructura = valor`.
+`nombreDeVariable.campoDeEstructura = valor`.
 
 Crear una variable `persona`, que sea un 
