@@ -6,6 +6,7 @@ Al utilizar un puntero, reemplazamos el operador `.` por `->`.
 Se usa muy parecido, `punteroALaEstructura->campoDeEstructura = valor`.
 
 Ahora tenemos autos
+
 ```c
 typedef struct {
     char* marca;
