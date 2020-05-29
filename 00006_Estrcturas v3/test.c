@@ -9,7 +9,6 @@ context{
   facundo->apellido="Gonzalez";
   facundo->fechaDeNacimiento="10/01/1996";
   describe ("Personas con auto") {
-  
     it ("Descripción del ejemplo") {
       should_bool(true) be equal to(true);
     } end
