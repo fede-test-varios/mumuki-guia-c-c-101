@@ -4,7 +4,7 @@ Tambien tenemos tipos de datos compuestos, como:
 
 Los **enums** son tipos de datos enumerables. La asignacion de los numeros arranca desde 0 de izquierda a derecha en la definicion. _Salvo que se desee cambiar el valor de inicio del enum._ 
 
-AL momento de definirlo se hace de la siguiente manera:
+Al momento de definirlo se hace de la siguiente manera:
 
 ```c
   enum nombreDelEnum {nombreDeLosEnums}
