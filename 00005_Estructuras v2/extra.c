@@ -3,4 +3,4 @@ typedef struct {
     char* modelo;
     char* patente;
     int anio;
-} t_auto;
+} t_vehiculo;
