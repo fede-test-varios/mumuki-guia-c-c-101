@@ -17,5 +17,5 @@ t_persona felipe;
 Para asignarle valores utilizamos el operador `.` de la siguiente manera.
 `nombreDeVariable.campoDeEstructura = valor`.
 
-Crear una variable `persona`, que sea de tipo t_persona, con nombre y apellido Facundo Gonzalez.
+Crear una variable `facundo`, que sea de tipo t_persona, con nombre y apellido Facundo Gonzalez.
 Nacido el 10 de Enero de 1996.
