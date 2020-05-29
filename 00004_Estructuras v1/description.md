@@ -9,7 +9,7 @@ typedef struct {
 } t_persona;
 ```
 
-Para crear una variable del tipo t_persona
+Para crear una variable del tipo t_persona:
 
 ```c
 t_persona felipe;
