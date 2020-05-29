@@ -1,5 +1,5 @@
 Las estructuras nos permiten crear modelos en c.
-Podemos crear una estructura de la siguiente manera:
+Para crear una estructura lo hacemos de la  siguiente manera:
 
 ```c
 typedef struct {
@@ -9,7 +9,7 @@ typedef struct {
 } t_persona;
 ```
 
-Primero hay que crear un variable de tipo de estructura.
+Para crear una variable del tipo t_persona
 
 ```c
 t_persona felipe;
