@@ -2,9 +2,8 @@ Las funciones estan compuestas por, tipo de retorno, nombre de la funcion, param
 
 ``` c
 tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro){
-    tipoDeRetorno variableARetornar;
-    cuerpoDeLaFuncion ...
-    return variableARetornar;
+    <cuerpo_de_la_funcion_que_puede_no_existir>
+    return <expresion_a_retornar>;
 }
 ```
 
