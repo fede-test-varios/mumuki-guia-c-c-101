@@ -8,6 +8,7 @@ tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro){
 }
 ```
 
+En el caso de ser `void`, no hace falta una instancia de return en la funcion.
 
 
 
