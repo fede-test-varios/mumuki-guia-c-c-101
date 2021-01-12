@@ -1,3 +1,3 @@
 ```c
-<tipo> <nombre_variable>;
+<tipo> <nombre_variable> = <valor>;
 ```
