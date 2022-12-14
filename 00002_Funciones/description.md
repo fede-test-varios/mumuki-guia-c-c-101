@@ -11,4 +11,4 @@ En el caso de ser `void`, no hace falta una instancia de return en la funcion.
 
 
 
-Definir la funcion _sumar_, que dado dos numero enteros. Retorna la suma de ellos.
+Definir las funciones `sumar`, `restar` y `multiplicar` que dado dos numero enteros. Retorna la suma, resta y multiplicación de ellos respectivamente.

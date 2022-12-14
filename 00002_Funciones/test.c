@@ -5,7 +5,7 @@
         it("sumar 10 con -2"){
             should_int(sumar(10,-2)) be equal to(8);
         }end
-        it("restar 90 con 5"){
+      it("restar 90 con 5"){
             should_int(restar(90,5)) be equal to(85);
         }end
         it("restar -30 con -5"){
