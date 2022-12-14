@@ -1,6 +1,6 @@
 Definir las siguientes variables con sus tipos.
 
-> <table class="table table-striped">
+> <table class="table">
     <thead>
       <tr>
         <th>Nombre de variable</th>
