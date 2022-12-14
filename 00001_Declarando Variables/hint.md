@@ -1,3 +1,5 @@
+La sintaxis de C para declarar variables dándole un valor es:
+
 ```c
-<tipo> <nombre_variable> = <valor>;
+tipo_variable nombre_variable = valor;
 ```
