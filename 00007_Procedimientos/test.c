@@ -1,5 +1,3 @@
-int cantidadDeDiasCorridosSinAccidentes = 0;
-
 describe ("Procedimientos") {
   
   before {
