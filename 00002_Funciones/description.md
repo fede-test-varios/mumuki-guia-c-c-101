@@ -1,4 +1,4 @@
-Las funciones estan compuestas por, tipo de retorno, nombre de la funcion, parametros, cuerpo de la funcion.
+Las funciones estan compuestas por: el _tipo del valor de retorno_, el _nombre de la función_, los _parámetros separados por coma_ (si los hubiese) y el _cuerpo de la función_.
 
 ``` c
 tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro){
@@ -6,9 +6,5 @@ tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro){
     return <expresion_a_retornar>;
 }
 ```
-
-En el caso de ser `void`, no hace falta una instancia de return en la funcion.
-
-
 
 Definir las funciones `sumar`, `restar` y `multiplicar` que dado dos numero enteros. Retorna la suma, resta y multiplicación de ellos respectivamente.
