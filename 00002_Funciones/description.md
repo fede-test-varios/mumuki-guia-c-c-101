@@ -2,8 +2,8 @@ Las funciones estan compuestas por: el _tipo del valor de retorno_, el _nombre d
 
 ``` c
 tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro) {
-    <cuerpo_de_la_funcion_que_puede_no_existir>
-    return <expresion_a_retornar>;
+  <cuerpo_de_la_funcion_que_puede_no_existir>
+  return <expresion_a_retornar>;
 }
 ```
 
