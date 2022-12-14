@@ -1,1 +1,1 @@
-int cantidadDeDiasCorridosSinAccidentes;
+int cantidadDeDiasCorridosSinAccidentes = 0;
