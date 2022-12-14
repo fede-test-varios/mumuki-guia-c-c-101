@@ -5,8 +5,8 @@ Los **enums** son tipos de datos enumerables. La asignación de los números arr
 Al momento de definirlo se hace de la siguiente manera:
 
 ```c
-enum nombreDelEnum {
-  nombre_de_los_enums_en_mayuscula_separados_por_coma
+enum nombre_del_enum {
+  nombre_de_los_valores_del_enum_en_mayuscula_separados_por_coma
 }
 ```
 
