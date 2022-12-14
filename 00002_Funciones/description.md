@@ -7,4 +7,4 @@ tipoDeRetorno nombreDeLaFuncion(tipoDeParametro nombreDelParametro) {
 }
 ```
 
-Definir las funciones `sumar`, `restar` y `multiplicar` que dado dos numero enteros. Retorna la suma, resta y multiplicación de ellos respectivamente.
+> Definir las funciones `sumar`, `restar` y `multiplicar` que dado dos numero enteros. Retorna la suma, resta y multiplicación de ellos respectivamente.
